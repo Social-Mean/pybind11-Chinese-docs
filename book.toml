@@ -1,0 +1,12 @@
+[book]
+authors = ["charlotteLive "]
+language = "zh"
+multilingual = false
+src = "src"
+title = "Pybind11 Chinese Docs"
+
+[output.html]
+mathjax-support = true
+no-section-label = true
+git-repository-url = "https://github.com/charlotteLive/pybind11-Chinese-docs"
+git-repository-icon = "fa-github"
